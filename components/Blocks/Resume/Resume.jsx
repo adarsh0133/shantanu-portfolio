@@ -2,8 +2,8 @@
 
 import React, { useRef } from 'react';
 import gsap from "gsap";
-import {useGSAP} from "@gsap/react";
-import {ScrollTrigger} from "gsap/ScrollTrigger";
+import { useGSAP } from "@gsap/react";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 import styles from './Resume.module.scss';
 
 import Image from "next/image";
@@ -49,14 +49,13 @@ export default function Resume() {
                     <div className={styles.cardGroup} ref={cardGroup}>
                         <div className={`${styles.card} ${styles.cardV1}`}>
                             <div className={styles.cardInner}>
-                                <div className={styles.cardTitle}>YASIN GENC</div>
-                                <div className={styles.cardDesc}>Senior Frontend Developer</div>
-                                <hr/>
-                                <p>I am Yasin, a senior frontend developer with over 7 years of professional experience.
-                                    Successfully building user-friendly websites with ReactJS & NextJS. I pay attention
-                                    to
-                                    small details, enjoy technical problems, and work well in teams. I like learning new
-                                    technologies and always aim to improve my skills.
+                                <div className={styles.cardTitle}>Shantanu Singh</div>
+                                <div className={styles.cardDesc}>Social Entrepreneur & Developer</div>
+                                <hr />
+                                <p>
+                                    I am Shantanu, a Social Entrepreneur & Developer with 2+ years of experience, currently the Founder & CTO of BoostEd Asia, an initiative guiding underprivileged students through AI.
+                                    I also serve as CTO at CrossTheSkylimits, building tech solutions for students. As Co-Founder & Instructor at ISP Association, I help students maximize their potential. Additionally, I am a state-level Table Tennis player, where I developed leadership and analytical skills. 
+                                    Past roles include managerial experience at Project Sarama (NGO) and a graphic design internship at The Founderly, where I honed skills in social media and SEO. I’m driven to make impactful changes in education.
                                 </p>
                                 <div>
                                     <Link href={`mailto:${commonConfig.personal.email}`} target={'_blank'}>
@@ -64,21 +63,21 @@ export default function Resume() {
                                     </Link>
                                     <span>{commonConfig.personal.city}, {commonConfig.personal.state}</span>
                                 </div>
-                                <hr/>
+                                <hr />
                                 <div className={styles.cardSectionTitle}>WORK EXPERIENCE</div>
                                 <p>
-                                    Senior Frontend Developer | TenTwenty Digital Agency <br/>
-                                    UI & Frontend Developer | Denge Bilgisayar <br/>
-                                    Frontend Developer | Agency Look
+                                    Social Entrepreneur & Developer | Founder & CTO <br />
+                                    Chief Technology Officer | Co-Founder & Instructor  <br />
+                                    State Level Player | Manager
                                 </p>
                             </div>
                             <figure className={styles.figure}>
-                                <Image src="/yasin-genc-photo.jpeg" alt="Yasin Genc" width={150} height={150}/>
+                                <Image src="/yasin-genc-photo.jpeg" alt="Yasin Genc" width={150} height={150} />
                             </figure>
                         </div>
                         <div className={`${styles.card} ${styles.cardV2}`}>
                             <div className={styles.cardInner}>
-                                <Image src="/code-snippet.svg" alt="Code Snippet" width={330} height={480}/>
+                                <Image src="/code-snippet.svg" alt="Code Snippet" width={330} height={480} />
                             </div>
                         </div>
                     </div>
