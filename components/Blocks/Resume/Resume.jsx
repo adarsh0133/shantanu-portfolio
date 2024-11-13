@@ -61,7 +61,7 @@ export default function Resume() {
                                     <Link href={`mailto:${commonConfig.personal.email}`} target={'_blank'}>
                                         {commonConfig.personal.email}
                                     </Link>
-                                    <span>{commonConfig.personal.city}, {commonConfig.personal.state}</span>
+                                    <span>{commonConfig.personal.city}, India</span>
                                 </div>
                                 <hr />
                                 <div className={styles.cardSectionTitle}>WORK EXPERIENCE</div>
