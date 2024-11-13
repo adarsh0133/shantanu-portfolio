@@ -81,11 +81,6 @@ export default function Footer() {
                     <Logo classVariable={styles.badge}></Logo>
                     <div className={styles.copyright}>&copy; {currentYear} {commonConfig.personal.name} {commonConfig.personal.surname}
                         <br/>
-                        Powered by&nbsp;
-                        Vercel,&nbsp;
-                        Next.js, and &nbsp;
-                        <Link href="https://github.com/yasingencnet/webkit">GitHub</Link>.
-                        <br/>
                         {`${commonConfig.personal.city}, ${commonConfig.personal.state} ${currentTime}`}&nbsp;
                         •&nbsp;
                         <WeatherAPI></WeatherAPI>

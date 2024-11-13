@@ -143,7 +143,7 @@ export default function Hero() {
                                         priority
                                         className={styles.heroImg}
                                     />
-                                </span> <br/> Creative Frontend Developer.
+                                </span> <br/> Social Entrepreneur & Developer
                             </h1>
                             <p ref={descRef}>{commonConfig.metadata.description}</p>
                         </div>

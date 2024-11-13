@@ -28,32 +28,32 @@
     "description": "Beyond markup, HTML is crucial for an inclusive web. I structure content carefully for universal accessibility."
   },
   {
-    "icon": "IconOptimization",
-    "image": "/icon/icon-optimization.svg",
-    "title": "PageSpeed",
-    "subtitle": "Insights",
-    "description": "I specialize in enhancing website performance, ensuring fast loading times and efficient resource utilization for an optimal user experience."
+    "icon": "IconML",
+    "image": "/icon/icon-ml.webp",
+    "title": "Machine Learning",
+    "subtitle": "Data-Driven Insights",
+    "description": "I utilize ML algorithms to uncover patterns, build predictive models, and deliver actionable insights, driving impactful results across projects."
   },
   {
-    "icon": "IconA11Y",
-    "image": "/icon/icon-a11y.svg",
-    "title": "A11Y",
-    "subtitle": "Web Accessibility",
-    "description": "Accessibility is a must. I ensure everyone can use what I create, focusing on keyboard navigation and screen reader compatibility."
+    "icon": "IconAI",
+    "image": "/icon/ai.png",
+    "title": "Artificial Intelligence",
+    "subtitle": "Smart Solutions",
+    "description": "I harness AI to create data-driven solutions that enhance decision-making, automate processes, and solve complex problems in innovative ways."
   },
   {
-    "icon": "IconFigma",
-    "image": "/icon/icon-figma.svg",
-    "title": "Design",
-    "subtitle": "Figma & Photoshop",
-    "description": "While not a full-time UI designer, I have an eye for aesthetics, creating visually appealing and user-friendly interfaces."
+    "icon": "IconLeadership",
+    "image": "/icon/icon-leadership.jpg",
+    "title": "Leadership",
+    "subtitle": "Guiding Teams",
+    "description": "I lead with a collaborative and empathetic approach, focusing on empowering teams, fostering growth, and achieving shared goals effectively."
   },
   {
-    "icon": "IconWebpack",
-    "image": "/icon/icon-webpack.svg",
-    "title": "Development Env.",
-    "subtitle": "Webpack",
-    "description": "I use tools like Webpack, Vite, Parcel, or Gulp to streamline workflows, automating development for efficiency."
+    "icon": "IconEntrepreneurship",
+    "image": "/icon/icon-entrepreneurship.png",
+    "title": "Entrepreneurship",
+    "subtitle": "Innovation & Growth",
+    "description": "I leverage creativity and strategic thinking to identify opportunities, drive innovation, and build impactful solutions that address real-world challenges."
   },
   {
     "icon": "IconAPI",

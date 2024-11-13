@@ -1,18 +1,13 @@
 [
   {
-    "position": "Senior Frontend Developer",
-    "company": "TenTwenty Digital Agency",
-    "duration": "January 2022 - September 2023",
+    "position": "Founder & CTO",
+    "company": "BoostEd Asia · Full-time",
+    "duration": "Dec 2021 - Present · 3 yrs",
     "location": "Remote",
     "image": "/company/tentwenty.svg",
-    "url": "https://www.tentwenty.me/",
+    "url": "",
     "responsibilities": [
-      "Built animation-focused websites using React JS, GSAP, and the Locomotive Scroll library.",
-      "Integrated websites seamlessly with Concrete CMS for 100% easy content management.",
-      "Collaborated with designers and backend developers, delivering 10+ top-notch websites on time.",
-      "Achieved more than 50% faster webpage loading on every project, prioritizing performance and speed.",
-      "Experienced Arabic RTL layout in two significant projects.",
-      "Successfully met deadlines, delivering 10+ projects on time."
+      "A PAN-INDIA Movement for guiding underprivileged students using AI (VardaanBlueprint). Some incidents made me realize how important is to solve the educational inequality problem first. I gained support from the founder of CrossTheSkylimits for this initiative, and let me work on my self-project while working on CrossTheSkylimits. Additionally, I received guidance too from him. After I successfully made VardaanBlueprint, Krishna MIT and I thought to make this initiative even bigger by launching BoostEdAsia. My founder didn't let me left CrossTheSkylimits, and collaborated with me and started this initiative. We gained a lot of support afterwards, other people also joined us. I am on a mission to remove this inequality such as lack of awareness, resources, etc. faced by students who live in underprivileged areas and help 1 million students"
     ],
     "color": {
       "h": "221",
@@ -21,12 +16,12 @@
     }
   },
   {
-    "position": "UI & FE Developer",
-    "company": "Denge Bilgisayar",
-    "duration": "May 2018 - January 2022",
-    "location": "Hybrid",
+    "position": "Co-Founder & Instructor ",
+    "company": "ISP Association · Full-time",
+    "duration": "Apr 2023 - Present · 1 yr 8 mos",
+    "location": "Delhi, India · Hybrid",
     "image": "/company/denge-bilgisayar.svg",
-    "url": "httsp://denge.com.tr/",
+    "url": "",
     "responsibilities": [
       "Re-designed over 85 unique pages for B2B, CRM, and corporate websites in Figma.",
       "Collaborated closely with two backend developers, creating the frontend of the entire project.",
@@ -40,16 +35,14 @@
     }
   },
   {
-    "position": "Frontend Developer",
-    "company": "Agency Look",
-    "duration": "April 2017 - May 2018",
-    "location": "On-site",
+    "position": "State Level Player",
+    "company": "Table Tennis Federation Of India (TTFI) · Apprenticeship",
+    "duration": "Oct 2024 - Oct 2024 · 1 mo",
+    "location": "New Delhi, Delhi, India · On-site",
     "image": "/company/agency-look.svg",
-    "url": "https://look.agency/",
+    "url": "",
     "responsibilities": [
-      "Developed and maintained functional pages for web applications.",
-      "Worked with a .NET based custom CMS.",
-      "Built hundreds of responsive HTML email template modules, reducing email template processing time significantly."
+      "I am playing Table Tennis since I was in 8th Class and believes it has an important role in shaping me who I am today, whether it's discipline, sportsmanship, mindset, etc. It is like a meditation to me when I am stressed or in free-time. This tournament was very special to me because my coach found great analytical, guiding and leadership skills in me and gave me the opportunity to be the captain of my team. I lead my Table Tennis team at State level in boys under 17 and qualified for quarter-final-round"
     ],
     "color": {
       "h": "240",
@@ -58,14 +51,30 @@
     }
   },
   {
-    "position": "Web Designer",
-    "company": "Softanka Yazılım",
-    "duration": "January 2016 - March 2017",
-    "location": "On-site",
+    "position": "Chief Technology Officer",
+    "company": "Cross The Skylimits · Full-time",
+    "duration": "Feb 2023 - Present · 1 yr 10 mos",
+    "location": "Bhopal, Madhya Pradesh, India · On-site",
     "image": "/company/softanka.svg",
-    "url": "https://www.playanka.com/",
+    "url": "",
     "responsibilities": [
-      "Designed and developed themes for game markets"
+      "Making student life easier through new tools and platform for their better future. Also, this is the parent Company of ISP ASSOCIATION, BoostEdAsia. Working phase here would be written in histories, as I believe working over here changed my life. I was selected here based on coding and full stack development skills. After that it was just a beginning, I made great connections over here, I learned how important is to work at a startup once in a life, if you want to be an entrepreneur in future. I enhanced my skills from technical aspects to entrepreneurial aspects, attended many startup, NGOs events, Hackathons, under the guidance of Founder. I learnt why Network is your Networth. I learned how innovations can turn into a business. Currently working on BoostEdAsia collaborated with Cross The Skylimits!"
+    ],
+    "color": {
+      "h": "210",
+      "s": "0%",
+      "l": "90%"
+    }
+  },
+  {
+    "position": "Graphic Designer",
+    "company": "The Founderly · Internship",
+    "duration": "Apr 2024 - Jun 2024 · 3 mos",
+    "location": "India · Remote",
+    "image": "/company/softanka.svg",
+    "url": "",
+    "responsibilities": [
+      "I worked in this company solely on purpose to understand social media. I worked here as a graphic designer as it would be best, as I don't have any prior experience in field of this so I wasn't offered a leading position in this field but received in technical matters. But I was clear, and hence worked as a graphic designer to understand social media platforms, their algorithms, SEOs, etc. I made good connections over here which are currently helping me to shape BoostEdAsia"
     ],
     "color": {
       "h": "210",

@@ -60,8 +60,8 @@ export default function BoldTitle() {
                     understand designs well and builds effective communication between team members.
                 </TextReveal>
                 <h2 className={styles.boldTitle} ref={boldTitle}>
-                    <span className={styles.boldTitleLeft} ref={boldTitleLeft}>Creative</span>
-                    <span>Frontend</span>
+                    <span className={styles.boldTitleLeft} ref={boldTitleLeft}>Social</span>
+                    <span>Entrepreneur &</span>
                     <span className={styles.boldTitleRight} ref={boldTitleRight}>Developer</span>
                 </h2>
                 <TextReveal className={`${styles.paragraph} ${styles.paragraphAlt}`}>
